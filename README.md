@@ -1,8 +1,5 @@
-# UrbanKart-Sales-Performance-Dashboard
-
-# Save the provided README content as a markdown file for GitHub use
-readme_content = """
 # 📊 UrbanKart Sales Performance Dashboard — Power BI
+
 
 ## 🚀 Project Overview
 An interactive and dynamic dashboard built using **Power BI Desktop**, **DAX**, and **Power Query** to analyze sales data for **UrbanKart**, a fictional e-commerce platform. The goal was to uncover actionable business insights, identify profitability drivers, and support executive decisions on **regional growth, product strategy, and discount optimization**.
